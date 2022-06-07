@@ -1,4 +1,4 @@
-### Olá! Aqui é Adriana ... <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### 👋 Olá! Seja bem vindo (a)... Sou Adriana ...
 
 - 👩‍💻 Estudante de Desenvolvimento Full-Stack Web na Trybe
 - 💼 Em transição de carreira, atuei nas áreas de Administração e Financeiro
