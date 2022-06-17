@@ -1,7 +1,6 @@
 ### 👋 Olá! Seja bem vindo (a)... Sou Adriana ...
 
-- 👩‍💻 Estudante de Desenvolvimento Full-Stack Web na Trybe
-- 💼 Em transição de carreira, atuei nas áreas de Administração e Financeiro
+- 👩‍💻 Desenvolvedora Full Stack Jr.
 - 🏞️ Amo estar com a familia e amigos, principalmente em passeios que envolve a natureza
 - 🖥 Sou apaixonada por jogos online e suas tecnologia
 
