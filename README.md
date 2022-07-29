@@ -15,8 +15,8 @@
 </p>
 
 <div>
-  <img height="168em" src="https://github-readme-stats.vercel.app/api?username=Adriana-coderstar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="168em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adriana-coderstar&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="168em" src="https://github-readme-stats.vercel.app/api?username=Adriana-coderstar&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
+  <img height="168em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adriana-coderstar&layout=compact&langs_count=7&theme=blueberry"/>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
