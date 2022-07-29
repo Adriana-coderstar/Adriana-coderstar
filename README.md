@@ -4,6 +4,8 @@
  🖥 Sou apaixonada por jogos online e suas tecnologia
 
  🌱 Atualmente graduando **Analise e Desenvolvimento de Sistemas**
+ 
+ :books: Cursando **Desenvolvedor Web full Stack na Trybe**
 
  📫 E-mail para contato: **adrianam754@gmail.com**
 
